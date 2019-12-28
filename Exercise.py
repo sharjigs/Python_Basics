@@ -39,8 +39,3 @@ age = 4
 name = "summary"
 
 print('Hello my dog name is {} and he is {} years old'.format(name, age))
-
-
-
-
-

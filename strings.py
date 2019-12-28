@@ -37,4 +37,3 @@ print(demo)
 demo = "Item one: {y} Item two: {x}".format(x='Jig', y='poonam')
 print(demo)
 print(my_string_print_formationg)
-
